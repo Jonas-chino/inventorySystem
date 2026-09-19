@@ -28,4 +28,4 @@ The project is written entirely in **C#** utilizing the **.NET SDK**. It relies 
 
 # Future Work
 
-- more controleto input users
+- more control to input users
